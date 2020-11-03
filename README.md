@@ -1,6 +1,6 @@
 <h1> Olá, Sou o Rapha</h1>
 <h2> Estudo - Desenvolvimento de Software na Trybe!!!</h2>
-<h3>O que eu codo</h3>
+<h3>Tecnologias Usadas</h3>
 <ul>
   <li>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
