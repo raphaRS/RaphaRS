@@ -1,4 +1,4 @@
-<h1> Olá, Eu sou o Rapha</h1>
+<h1> Olá, Sou o Rapha</h1>
 <h2> Estudo - Desenvolvimento de Software na Trybe!!!</h2>
 <h3>O que eu codo</h3>
 <ul>
