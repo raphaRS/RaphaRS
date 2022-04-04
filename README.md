@@ -1,5 +1,6 @@
-<h1> Olá, Sou o Rapha</h1>
-<h2> Estudo - Desenvolvimento de Software na Trybe!!!</h2>
+<h1> Olá, Sou o Raphael ou Rapha</h1>
+<h2> Sou QA (Quality Assurance) na Accenture - Brasil</h2>
+<h2> Estudei na Trybe - desenvolvimento web fullstack</h2>
 <h3>Tecnologias Usadas</h3>
 <ul>
   <li>
