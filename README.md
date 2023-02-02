@@ -1,4 +1,4 @@
-<h1> Olá, Sou o Raphael ou Rapha</h1>
+<h1> Olá, Sou o Rapha</h1>
 <h2> Sou QA (Quality Assurance) na Accenture - Brasil</h2>
 <h2> Estudei na Trybe - desenvolvimento web fullstack</h2>
 <h3>Tecnologias Usadas</h3>
